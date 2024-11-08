@@ -1,7 +1,7 @@
 name: This is a workflow w-o-r-k-f-l-o-w, workflow
 
 on:
-  pullrerquest:
+  pull_request:
     branches:
       - develop
       - staging
